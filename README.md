@@ -1,1 +1,1 @@
-# A simple page made with React and Tailwind!
+# A simple page made with React Components and Tailwind!
